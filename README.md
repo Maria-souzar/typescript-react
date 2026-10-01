@@ -1,2 +1,2 @@
 # typescript-react
-Aprendendo TS Poo
+Aprendendo TS e POO
